@@ -68,7 +68,7 @@ form input {
 
 .select-container select {
   font-size: 1rem;
-  color: black;
+  color:black !important;
   width: 100%;
 }
 
@@ -87,7 +87,7 @@ form input {
 .ExchangeCurrCode{
     cursor: pointer;
     border: none;
-    color: black;
+    color: black !important;
     background-color: aliceblue;
 }
  
