@@ -85,7 +85,7 @@ const UpdateFlag = (element) => {
 btn.addEventListener("click", (e) => {
   e.preventDefault();
   UpdateExchangeRate();
-  console.log(fromCurr.value)
+  
 
   // console.log(fromCurr.value,toCurr.value.toLowerCase())
 });
